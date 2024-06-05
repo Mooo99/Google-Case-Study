@@ -9,3 +9,4 @@ The marketing team at Cyclistic, a bike-sharing company, wants to understand the
 
 Data Source: 
 This dataset includes anonymized user information such as trip details (bike type, start/end time, month, duration, start/end station), and subscription type (casual/member). The data is extracted from divvy_tripdata.
+
