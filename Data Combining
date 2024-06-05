@@ -40,7 +40,7 @@ FROM  `fluted-catalyst-423722-a6.bike_trips.trips-2404`
 -- Check Rows of combined data 
 
 SELECT * 
-FROM  `Analysis.Combined_data`
+FROM  `Analysis.Combined_data` -- Returned 5,738,612 Rows
 
 
 
