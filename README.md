@@ -3,6 +3,7 @@
 ## Introduction
 "In this case study, I will carry out various real-world tasks of a junior data analyst at a fictional company called Cyclistic. To address the main business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act."
 
+## Ask
 ### Business Task
 How do annual members and casual riders use Cyclistic bikes differently?
 
